@@ -1,4 +1,4 @@
-# English_to_leetspeak
+# Character replacemnet program
 
 This is a program that translates the user input phrase to leetspeak.
 
